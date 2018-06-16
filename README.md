@@ -1,6 +1,6 @@
 # relobp
 
-Usage: g++ -std=c++11 -orelobp; ./relobp < stasi2017.csv
+Usage: g++ -std=c++11 -orelobp stasis.cpp; ./relobp < stasi2017.csv
 
 Internal parameter of note - 
 * OUTPUT_PLAY_STRENGTH = true: outputs CSV of c/o scores for each play of the season
